@@ -1,1 +1,0 @@
-# cuFJC-scission-lake-thomas-fracture-toughness
