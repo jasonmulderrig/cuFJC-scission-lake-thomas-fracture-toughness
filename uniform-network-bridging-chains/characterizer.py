@@ -2,8 +2,8 @@
 
 # import necessary libraries
 from __future__ import division
-from .default_parameters import default_parameters
-from .utility import generate_savedir
+from default_parameters import default_parameters
+from utility import generate_savedir
 
 
 class Characterizer(object):
